@@ -1,0 +1,140 @@
+{
+  "tired": {
+    "validation": [
+      "Lag raha hai tum kaafi thak gaye ho.",
+      "Tumhari baat se thakaan mehsoos ho rahi hai.",
+      "Sunke lagta hai energy low ho gayi hai."
+    ],
+    "reflection": [
+      "Kabhi kabhi zyada effort karne se aisa ho jaata hai.",
+      "Body aur mind dono ko rest chahiye hota hai.",
+      "Thakna weak hone ka sign nahi hota."
+    ],
+    "direction": [
+      "Agar ho sake toh thoda pause le lo.",
+      "Ek gehri saans lene ki koshish karo.",
+      "Aaj thoda khud pe rehem karna theek hai."
+    ]
+  },
+
+  "sad": {
+    "validation": [
+      "Mujhe lag raha hai tum udaas ho.",
+      "Ye baat thodi bhaari lag rahi hai.",
+      "Tumhari feelings ka weight feel ho raha hai."
+    ],
+    "reflection": [
+      "Kabhi kabhi bina reason bhi dil heavy ho jaata hai.",
+      "Udaasi ka aana insaan hone ka hissa hai.",
+      "Lagta hai kuch andar daba hua hai."
+    ],
+    "direction": [
+      "Chaaho toh aur likh sakte ho.",
+      "Main yahin hoon, jaldi nahi hai.",
+      "Hum dheere dheere baat kar sakte hain."
+    ]
+  },
+
+  "anxious": {
+    "validation": [
+      "Ye thoda ghabrahat jaisa lag raha hai.",
+      "Tumhari baat se tension mehsoos ho rahi hai.",
+      "Lagta hai dimag overthinking me chala gaya hai."
+    ],
+    "reflection": [
+      "Anxiety aksar future ke pressure se aati hai.",
+      "Dimag kabhi kabhi cheezon ko bada bana deta hai.",
+      "Is moment me hona mushkil lag raha hoga."
+    ],
+    "direction": [
+      "Abhi sirf ek saans pe focus karte hain.",
+      "Aankhon ke saamne jo hai usse notice karo.",
+      "Tum safe ho, abhi yahin."
+    ]
+  },
+
+  "lonely": {
+    "validation": [
+      "Akela lagna bohot heavy hota hai.",
+      "Ye loneliness mehsoos karna dard deta hai.",
+      "Lagta hai tum connect hone ke liye taras rahe ho."
+    ],
+    "reflection": [
+      "Akela mehsoos karna weak hona nahi hota.",
+      "Kabhi kabhi log hote hue bhi akelapan hota hai.",
+      "Tumhari feelings valid hain."
+    ],
+    "direction": [
+      "Main yahin hoon tumhare saath.",
+      "Tum jo likh rahe ho wo matter karta hai.",
+      "Chaaho toh aur share karo."
+    ]
+  },
+
+  "angry": {
+    "validation": [
+      "Lagta hai kaafi gussa hai andar.",
+      "Tumhari baat me frustration dikh rahi hai.",
+      "Ye irritation kaafi strong lag rahi hai."
+    ],
+    "reflection": [
+      "Gussa aksar kisi hurt ka signal hota hai.",
+      "Kabhi kabhi boundaries cross hone se gussa aata hai.",
+      "Is feeling ko ignore karna mushkil hota hai."
+    ],
+    "direction": [
+      "Abhi react karna zaroori nahi hai.",
+      "Thoda ruk ke saans lene se madad mil sakti hai.",
+      "Hum isko shant tareeke se samajh sakte hain."
+    ]
+  },
+
+  "overwhelmed": {
+    "validation": [
+      "Sab kuch ek saath aane jaisa lag raha hai.",
+      "Tum pe kaafi pressure lag raha hai.",
+      "Ye situation handle karna mushkil lag raha hoga."
+    ],
+    "reflection": [
+      "Overwhelmed feel karna common hai jab expectations zyada ho.",
+      "Har cheez ek saath solve karni zaroori nahi.",
+      "Tum akela nahi ho is feeling me."
+    ],
+    "direction": [
+      "Ek ek cheez ko alag sochna madad karega.",
+      "Abhi sirf agla chhota step dekho.",
+      "Main yahin hoon tumhare saath."
+    ]
+  },
+
+  "okay": {
+    "validation": [
+      "Achha hai ki tum theek mehsoos kar rahe ho.",
+      "Lagta hai aaj kaafi balanced feel ho raha hai."
+    ],
+    "reflection": [
+      "Ye moments bhi important hote hain.",
+      "Theek hona bhi ek achievement hai."
+    ],
+    "direction": [
+      "Chaaho toh apna din share kar sakte ho.",
+      "Is feeling ko notice karna achhi baat hai."
+    ]
+  },
+
+  "unknown": {
+    "validation": [
+      "Main sun raha hoon.",
+      "Tum jo keh rahe ho wo important hai.",
+      "Chahe clear na ho, phir bhi likhna theek hai."
+    ],
+    "reflection": [
+      "Kabhi kabhi feelings ko naam dena mushkil hota hai.",
+      "Hum bina label ke bhi baat kar sakte hain."
+    ],
+    "direction": [
+      "Jo bhi mann me aaye likhte jao.",
+      "Main yahin hoon."
+    ]
+  }
+}

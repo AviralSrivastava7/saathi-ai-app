@@ -1,0 +1,99 @@
+# Miscellaneous
+*.class
+*.log
+*.pyc
+*.swp
+.DS_Store
+.atom/
+.build/
+.buildlog/
+.history
+.svn/
+.swiftpm/
+migrate_working_dir/
+
+# IntelliJ related
+*.iml
+*.ipr
+*.iws
+.idea/
+
+# VS Code
+.vscode/
+
+# Flutter/Dart/Pub related
+**/doc/api/
+**/ios/Flutter/.last_build_id
+.dart_tool/
+.flutter-plugins-dependencies
+.pub-cache/
+.pub/
+/build/
+/coverage/
+
+# Symbolication related
+app.*.symbols
+
+# Obfuscation related
+app.*.map.json
+
+# Android Studio build artifacts
+/android/app/debug
+/android/app/profile
+/android/app/release
+/android/build/
+
+# Environment & Secrets
+.env
+.env.*
+*.env
+secrets/
+*.key
+*.pem
+*.p12
+*.jks
+key.properties
+google-services.json
+GoogleService-Info.plist
+
+# API Keys / Sensitive Config
+**/api_key*
+**/secret*
+
+# Temporary & Analysis files (not needed in repo)
+*.txt
+!README.txt
+tmp/
+tmp_*/
+scripts/
+*.pdf
+
+# Python scripts (utility, not part of app)
+*.py
+
+# Old presentation files
+presentation.html
+saathi_pitch.html
+*.pptx
+
+# Website (separate deployment)
+website/node_modules/
+website/.next/
+website/out/
+
+# Screenshots (large files)
+ss_*.png
+IMAGES FOR WEB/
+
+# Node
+node_modules/
+.next/
+out/
+
+# Gemini AI tool artifacts
+.gemini/
+
+# Build outputs
+*.apk
+*.aab
+*.ipa
